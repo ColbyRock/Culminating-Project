@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <center><b><font size=+6>Sharks Around the World</font></b></center>
+  <script src="script.js"></script>
+
+  <hr>
+
+<center><font size=+1>This website is to help inform people about shark spiecies all around the world, so they may grow to both appretiate and respect their place in the eco system.</font></center>
+
+<div style="float: left;width:50%;">
+  
+  <ol start=1>
+ <li> <a href="https://en.wikipedia.org/wiki/Great_white_shark">Great White</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Bull_shark>Bull Shark</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Blue_shark>Blue Shark</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Sand_tiger_shark>Sand Tiger Shark</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Common_thresher>Common Thresher</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Blacktip_reef_shark>Blacktip Reef Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Silky_shark>Silky Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Bluntnose_sixgill_shark>Blunt Nose Sixgill Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Spiny_dogfish>Spiny Dogfish</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Sandbar_shark>Sandbar Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Port_Jackson_shark>Port Jacksons Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Leopard_shark>Leopard Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Goblin_shark>Goblin Shark</a></li>
+
+  <li><a href=https://en.wikipedia.org/wiki/Longfin_mako_shark>Longfin Mako Shark</a></li>
+
+<li><a Href=https://en.wikipedia.org/wiki/Bonnethead>Bonnethead</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Frilled_shark>Frilled Shark</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Sand_devil>Sand Devil</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Tiger_shark>Tiger Shark</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Blacktip_shark>Blacktip Shark</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Basking_shark>Basking Shark</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Greenland_shark>Greenland Shark</a></li>
+
+  <li><a Href=https://en.wikipedia.org/wiki/Porbeagle>Porbeagle</a></li>
+
+<li><a href=https://en.wikipedia.org/wiki/Nurse_shark>Nursing Shark</a></li>
+    
+    <li><a href=https://en.wikipedia.org/wiki/Lemon_shark>Lemon Shark</a></li>
+    
+    <li><a href=https://en.wikipedia.org/wiki/Caribbean_reef_shark>Caribean Reef Shark</a></li>
+    
+    <li><a href=https://en.wikipedia.org/wiki/Megamouth_shark>Megamouth Shark</a></li>
+    
+</ol>
+</div>
+
+<div style="float: Right;width:50%;">
+  <ol start=27>
+
+    <li><a href=https://en.wikipedia.org/wiki/Spinner_shark>Spinner Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Megalodon>Megalodon</a></li>
+  <li><a href=https://en.wikipedia.org/wiki/Atlantic_sharpnose_shark>Atlantic Sharpnose Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Pacific_sleeper_shark>Pacific Sleeper Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Cookiecutter_shark>Cookie Cutter Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Salmon_shark>Salmon Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Blacknose_shark>Blacknose Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Small-spotted_catshark>Small Spotted Catshark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Shortfin_mako_shark>Shortfin Mako Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Whale_shark>Whale Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Oceanic_whitetip_shark>Oceanic Whitetip Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Great_hammerhead>Great Hammerhead</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Dusky_shark>Dusky Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Smooth_hammerhead>Smooth Hammerhead</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Scalloped_hammerhead>Scalloped Hammerhead</a></li>
+  <li><a href=https://en.wikipedia.org/wiki/Grey_reef_shark>Grey Reef Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Copper_shark>Copperhead Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Galapagos_shark>Galapagos Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Bigeye_thresher>Bigeye Thresher</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Squatina_squatina>Squatina Squatina</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Whitetip_reef_shark>Whitetip Reef Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Pelagic_thresher>Pelagic Thresher</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/School_shark>School Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Zebra_shark>Zebra Shark</a></li>
+    <li><a href=https://en.wikipedia.org/wiki/Kitefin_shark>Kitefin Shark</a></li>
+  </ol>
+  </div>
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>
